@@ -13,10 +13,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Values\01) Make+Model.txt">
+    <None Update="Values-Backup\01) Make+Model.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Values\02%29 Year.txt">
+    <None Update="Values-Backup\02) Year.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Values\05) Score.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Values\04) Age.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="Values\03%29 Mileage.txt">
